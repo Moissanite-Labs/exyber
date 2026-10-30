@@ -1,3 +1,5 @@
+> **Exyber:** This fork is beginning a device-interaction layer for Exo. See [Exyber's mission and synthetic prototype](exyber/README.md). The Iroh project and workspace are preserved below.
+
 <h1 align="center"><a href="https://iroh.computer"><img alt="iroh" src="./.img/iroh_wordmark.svg" width="100" /></a></h1>
 
 <h3 align="center">
